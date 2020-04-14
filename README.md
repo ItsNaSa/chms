@@ -19,6 +19,6 @@ To preserve the core functionality of the system we are trying to emulate, we ha
 - Day wise statistics for every doctor profile. 
 
 ## Technology Stack
-Front End: Bootstrap 4 ([template](https://bootstrapious.com/p/bubbly-admin-template)), Javascript and JSP
-Back End: Servlets 
+Front End: Bootstrap 4 ([template](https://bootstrapious.com/p/bubbly-admin-template)), Javascript and JSP                       
+Back End: Servlets                      
 Database: MySQL
